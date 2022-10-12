@@ -1,6 +1,6 @@
 # QA Engineer test
 
-## !please enter your bearer token in the the BaseService class to run the code!
+## !please enter your bearer token in the BaseService class to run the code!
 
 
 ### This is a sample project to test APIs using JUnit and RestAssured. In this project you will find the configuration required to write tests for a number of endpoints by Go Rest (https://gorest.co.in/), as well as a sample test class to start with.
