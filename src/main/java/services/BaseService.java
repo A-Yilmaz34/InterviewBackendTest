@@ -12,7 +12,7 @@ public class BaseService {
     protected static RequestSpecification defaultRequestSpecification(){
         return restAssured()
                 .header("Content-type", "application/json")
-                .header("Authorization", "Bearer "enter  your Bearer token here");   //please enter your bearer token
+                .header("Authorization", "Bearer "5512e6f432460f742b2831a7590de508d5a87e1636902d38151b680999b3e1ca");   
     }
 
     protected static RequestSpecification restAssured() {
